@@ -1,6 +1,6 @@
 ## Hi & Welcome to my repo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Me chamo Ruggeri Oliveira!** Sou desenvolvedor backend e trabalho na área desde 2013 e no meu tempo livre curto estudar sobre a área de gamedev.
+**My name is Ruggeri Oliveira!** I'm a backend developer and have been working in the field since 2013. In my spare time I like to study game development..
 
 ### 💼 Professional Experience
 - [Stefanini Brasil](https://www.linkedin.com/company/stefanini-brasil/)
